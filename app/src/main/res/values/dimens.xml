@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="layout_width">150dp</dimen>
+    <dimen name="layout_width">160dp</dimen>
     <dimen name="layout_height">100dp</dimen>
     <dimen name="layout_marginStart">30dp</dimen>
     <dimen name="layout_marginTop">100dp</dimen>
@@ -11,4 +11,9 @@
     <dimen name="layout_marginTop_Button">68dp</dimen>
     <dimen name="layout_marginTop_ResetButton">188dp</dimen>
     <dimen name="textSize_Button">15sp</dimen>
+    <dimen name="layout_marginTop_horizontal">44dp</dimen>
+    <dimen name="layout_marginStart_horiz">28dp</dimen>
+    <dimen name="layout_marginTop_horizont">24dp</dimen>
+    <dimen name="layout_marginTop_horizont_button">36dp</dimen>
+    <dimen name="layout_marginTop_horiz_button_124">124dp</dimen>
 </resources>
