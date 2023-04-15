@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Football scoreboard</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="colon" translatable="false">:</string>
+    <string name="switzerland">ШВЕЙЦАРИЯ</string>
+    <string name="spain">ИСПАНИЯ</string>
+    <string name="reset">СБРОС</string>
+</resources>

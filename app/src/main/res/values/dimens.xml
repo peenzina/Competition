@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">150dp</dimen>
+    <dimen name="layout_height">100dp</dimen>
+    <dimen name="layout_marginStart">30dp</dimen>
+    <dimen name="layout_marginTop">100dp</dimen>
+    <dimen name="layout_marginTop_score">55dp</dimen>
+    <dimen name="textSize_Score">50sp</dimen>
+    <dimen name="layout_marginTop_colon">255dp</dimen>
+    <dimen name="layout_height_Button">60dp</dimen>
+    <dimen name="layout_marginTop_Button">68dp</dimen>
+    <dimen name="layout_marginTop_ResetButton">188dp</dimen>
+    <dimen name="textSize_Button">15sp</dimen>
+</resources>
